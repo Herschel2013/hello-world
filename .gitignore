@@ -1,0 +1,4 @@
+ConsoleTest/*.suo
+ConsoleTest/ConsoleTest/bin/Debug/*.*
+ConsoleTest/ConsoleTest/obj/Debug/*.*
+*.bak
